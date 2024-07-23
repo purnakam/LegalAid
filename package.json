@@ -1,0 +1,19 @@
+{
+    "name": "LegalAid",
+    "version": "1.0.0",
+    "description": "Your most trusted legal service site",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js",
+      "build": "npm install"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.15"
+    },
+    "author": "Purnakam",
+    "license": "MIT"
+  }
+  
